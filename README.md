@@ -1,4 +1,3 @@
-⚡ Gosto de estudar programação, tudo que automatize algo para ser mais rápido e melhorar o dia a dia das pessoas.
 <h1 align="left"> Eu sou Robert Fontenele</h1>
 <h2 align="left">⚡ Gosto de estudar programação, tudo que automatize algo para ser mais rápido e melhorar o dia a dia das pessoas.</h2>
 <div align="center">
@@ -19,6 +18,7 @@
   <img width="12" />
 </div>
 <div align="left">
+  <a href="https://www.instagram.com/robert_fontenelee" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
